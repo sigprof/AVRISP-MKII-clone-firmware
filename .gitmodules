@@ -1,0 +1,4 @@
+[submodule "lufa"]
+	path = lufa
+	url = https://github.com/sigprof/lufa.git
+	branch = AVRISP-MKII-clone-firmware
